@@ -1,0 +1,27 @@
+
+div.navbar-default {
+	background: dodgerblue;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+	font-size: 1.2em;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 1.4em;
+}
+
+.container > a {
+	color: white;
+}
+
+span.caption-o {
+	color: orange;
+	text-transform: uppercase;
+}
+
+div#navbar-main li {
+	margin-left: 5em;
+}
